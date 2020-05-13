@@ -39,5 +39,7 @@ public class HelloWord {
 
     public static void method1() {
 
+        System.out.println("学习git");
+
     }
 }
