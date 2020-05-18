@@ -9,7 +9,7 @@ public class MavendemoApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(MavendemoApplication.class, args);
-        System.out.println("我好了");
+        System.out.println("你好");
     }
 
 }
